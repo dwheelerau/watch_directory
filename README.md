@@ -1,6 +1,6 @@
 # watch_directory  
 
-![Example](screenshots/example.png)
+![](screenshot/example.png)
 
 just a simple script for watching a directory and processing
 any new files.
